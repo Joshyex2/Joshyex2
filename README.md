@@ -5,9 +5,9 @@
 
 <h2>📃Certifications</h2>
 
-- [Bacherlors Degree in Information Technology (university of Central Florida)]
-- [Comptia Network+]
-- [Comptia Security+ (In progress)]
+- Bacherlors Degree in Information Technology (university of Central Florida)
+- Comptia Network+
+- Comptia Security+ (In progress)
 
 
 
